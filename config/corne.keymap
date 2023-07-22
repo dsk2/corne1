@@ -50,7 +50,7 @@
                         label = "Raise";
                         bindings = <
    &kp  TAB  &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR &kp RPAR &kp HOME
-   &kp LCTRL &trans   &trans &trans   &trans   &trans      &kp MINUS &kp LPAR &kp LPAR        &trans &kp UP &kp END
+   &kp LCTRL &trans   &trans &trans   &trans   &trans      &kp MINUS &kp LPAR &kp RPAR        &trans &kp UP &kp END
    &kp LSHFT &trans   &trans &trans   &trans   &trans      &kp UNDER &kp LBKT  &kp RBKT        &kp LEFT &kp DOWN &kp RIGHT
                     	     &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp RALT
                         >;
